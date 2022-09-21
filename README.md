@@ -1,4 +1,4 @@
-# CS086: Enhancing the Vending Machine
+# CS086 Project 2: Enhancing the Vending Machine
 ## Introduction
 In this project, you will design and enhance the simple vending machine that you made for project 1.  The project goals are as follows:  
 1. Further refine your programming skills.  Can you save code by using polymorephism?  
