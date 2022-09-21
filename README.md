@@ -14,14 +14,17 @@ The two design and implementation requirements are as follows:
 
 
 ### Strategy
-For my development environment, I use [MS Code](https://code.visualstudio.com/) on Windows with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) and the Ubuntu LTS.  I rely on [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html) in order to manage python libraries and set the python version.  There are many different ways to implement.  If you make an assumption, state it in the comments.  If you used a tutorial or found code online, add the reference location in the comments. Your program should provide basic error checking.  Review the [python 3.10 documentation](https://docs.python.org/3.10/). This website on [regular expressions](https://pythex.org/) may also be helpful. 
+For my development environment, I use [MS Code](https://code.visualstudio.com/) on Windows with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install) and the Ubuntu LTS.  I rely on [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html) in order to manage python libraries and set the python version.  There are many different ways to implement.  If you make an assumption, state it in the comments.  If you used a tutorial or found code online, add the reference location in the comments. Your program should provide basic error checking.  Review the [python 3.10 documentation](https://docs.python.org/3.10/). Installing the VSCode extension, [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack), may also be helpful for collaboration.
 
 ### Submission Instructions
 1. Create a github project that has the following:  
-    1. readme with instructions on how to run the program, any dependencies, assumptions, and a brief description of the enhacement the group chose to implement.  Include some group-introspection on how the team did, what challenges has to be overcome, how were roles divided, and the group/project name.
+    1. readme with instructions on how to run the program, dependencies, assumptions, a brief description of the enhacement the group chose to implement, the members of the group, and the group name.  Include some group-introspection on how the team did, what challenges has to be overcome, how were roles divided, and the group/project name.
     2. sample input: the dataset you used for your program
     3. the source code  
     4. A short video showing your program accpeting input and producing the results. 
+
+    _If you choose to make your repo private, then add my github username as a collaborator_
+
 2. Submit the github https link in MS Teams so that I can pull down your repo by running:   
 
     git clone https...  
